@@ -1,26 +1,31 @@
-# First and last name:
-## Kolenkiuski Aleh
+# 👋 Kolenkiuski Aleh
 
-# Contacts:
-## Polock, Belarus
-##GitHub: https://github.com/OlegHan
+##  Contacts
+- **Location:** Polock, Belarus
+- **GitHub:** [OlegHan](https://github.com/OlegHan)
 
-# About myself:
-## Hi, I really like programming. Before the course on rs.school, I studied Python and delved into the server part, but now it's time to figure out the client part.
+##  About Me
+Hi there! I'm passionate about programming. Before joining the rs.school course, I focused on Python and backend development. Now I'm excited to dive into frontend and master the client side!
 
-# Skills:
-##Python beckend
-##SQL, OOP, git ... 
-##frameworks: Django, FastAPI, Flask
-##OS: Windows, Linux
+## 🛠 Skills
+### Backend Development
+- **Languages:** Python
+- **Databases:** SQL
+- **Frameworks:** Django, FastAPI, Flask
+- **Concepts:** OOP, REST APIs
 
-# Code example:
-{i: i ** 2 for i in range(100)}
+### Tools & Platforms
+- Version Control: Git
+- Operating Systems: Windows, Linux
 
-# Education:
-##Polotsk Trade and Technology College, specialty: technician-programmer 2011 - 2014
-##Courses on Stepik: https://stepik.org/users/595244314/profile
+##  Code Example
+```python
 
-# Languages:
-##Russian: Native
-##English: B1
+## Education
+### Polotsk Trade and Technology College (2011-2014)
+### Specialty: Technician-Programmer
+### Online Courses: [Oleg](https://stepik.org/users/595244314/profile)
+
+## Languages
+Russian: Native
+English: B1 (Intermediate)
