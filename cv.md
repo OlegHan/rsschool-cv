@@ -19,13 +19,29 @@ Hi there! I'm passionate about programming. Before joining the rs.school course,
 - Operating Systems: Windows, Linux
 
 ##  Code Example
-```python
+###python
 
 ## Education
-### Polotsk Trade and Technology College (2011-2014)
-### Specialty: Technician-Programmer
-### Online Courses: [Oleg](https://stepik.org/users/595244314/profile)
+
+### Polotsk Trade and Technology College
+**2011 - 2014**  
+Polotsk, Belarus  
+*Specialty:* Technician-Programmer  
+Completed comprehensive programming curriculum  
+Gained practical skills in software development
+
+### Online Education
+[Stepik Profile](https://stepik.org/users/595244314/profile)  
+- Completed multiple programming courses
+- Specialized in Python development
+- Earned certificates in various IT disciplines
 
 ## Languages
-Russian: Native
-English: B1 (Intermediate)
+
+| Language     | Proficiency Level       |
+|--------------|-------------------------|
+| Russian      | Native                  |
+| English      | B1 (Intermediate)       |
+|              | • Technical reading     |
+|              | • Documentation writing |
+|              | • Basic communication   |
